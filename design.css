@@ -6,8 +6,18 @@ body{
     margin: 0;
 }
 
+h1{
+    text-align: center;
+    padding-bottom: 2px;
+    font-weight: 600;
+    font-size: 2.4rem;
+    font-family: 'Pacifico', cursive;
+    color: cadetblue;
+}
 .calculator{
-    width: 500px;
+    max-width: 500px;
+    margin: 0 auto;
+    width: 70%;
     background-color: black;
     color: white;
 }
